@@ -1,0 +1,49 @@
+body {
+    background: #ffffff !important;
+}
+
+
+#mainlable {
+    font-size: x-large !important;
+    font-weight: 600 !important;
+    outline: 2px solid #000 !important;
+    margin-top: 10px !important;
+}
+
+#browser{
+    float :left !important;
+    position: absolute !important;
+    margin-top: 50px !important;
+    width: 80% !important;
+    height: 70% !important;
+    outline: 2px solid #000 !important;
+    -moz-transform: scale(1) !important;
+    -ms-transform: scale(1) !important;
+    -webkit-transform: scale(1) !important;
+    -o-transform: scale(1) !important;
+    transform: scale(1) !important;
+    overflow: auto !important;
+
+}
+
+#url {
+    float :right !important;
+    margin-top: 50px !important;
+    background-color: #ffffff !important;
+    width: 18% !important;
+    height: 70% !important;
+}
+
+
+
+
+#inptUrl {
+    float: left !important;
+}
+#btnGo{
+    display: block !important;
+}
+#list_urls{
+    position: absolute !important;
+    float: left !important;
+}
